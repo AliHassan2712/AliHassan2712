@@ -1,70 +1,151 @@
-# [span_1](start_span)Hi there, I'm Ali Hassan 👋[span_1](end_span)
-
-[span_2](start_span)🎓 **Computer Systems Engineer (Al-Azhar University)**[span_2](end_span) | [span_3](start_span)💻 **Frontend Developer (React.js, Next.js)**[span_3](end_span)
-
----
-
-## 👨‍💻 About Me
-
-[span_4](start_span)Frontend Developer specializing in React.js and Next.js, with hands-on experience building scalable and production-ready web applications using TypeScript[span_4](end_span). [span_5](start_span)Skilled in designing clean architectures, reusable components, and integrating RESTful APIs[span_5](end_span). [span_6](start_span)Passionate about performance optimization, modern UI/UX, and building real-world applications[span_6](end_span). [span_7](start_span)Seeking to contribute to a dynamic development team and further develop expertise as a frontend engineer[span_7](end_span).
-
----
-
-## 🚀 Tech Stack & Skills
-
-- **[span_8](start_span)Core:** JavaScript (ES6+), TypeScript, React.js, Next.js[span_8](end_span)
-- **[span_9](start_span)State Management:** Redux ToolKit, TanStack Query (React Query), Context API[span_9](end_span)
-- **[span_10](start_span)UI & Styling:** Tailwind CSS, Bootstrap, Styled Components, CoreUI[span_10](end_span)
-- **[span_11](start_span)APIs & Tools:** Git, GitHub, GitHub Projects, Postman, Vercel[span_11](end_span)
-- **[span_12](start_span)Concepts:** Responsive Design, Performance Optimization, Component-Based Architecture, Clean Code, UI/UX Collaboration[span_12](end_span)
-
----
-
-## 🌟 Featured Projects
-
-### 1. [span_13](start_span)[Movies App - Movies & Series Platform](#) *(Add Live Demo Link Here)*[span_13](end_span)
-- [span_14](start_span)Architected a production-ready streaming interface utilizing Next.js (App Router) and TypeScript to ensure strict type safety and scalable architecture[span_14](end_span).
-- [span_15](start_span)Implemented dynamic routing (`[id]`) for seamless navigation across complex data entities including movies, series, and actors[span_15](end_span).
-- [span_16](start_span)Optimized data fetching and global state caching using TanStack Query (React Query), significantly reducing redundant API calls and latency[span_16](end_span).
-- [span_17](start_span)Enhanced user experience and Core Web Vitals by implementing skeleton loaders and utilizing `next/image` for advanced image optimization[span_17](end_span).
-- **[span_18](start_span)Technologies:** Next.js, TypeScript, React Query, Tailwind CSS[span_18](end_span).
-
-### 2. [span_19](start_span)[Learnify - AI Educational Platform](#) *(Add Live Demo Link Here)*[span_19](end_span)
-- [span_20](start_span)Engineered interactive and highly responsive student dashboards using React.js and TypeScript, focusing on a modular frontend architecture[span_20](end_span).
-- [span_21](start_span)Seamlessly integrated RESTful APIs from a Node.js/Express backend to manage complex real-time data flow[span_21](end_span).
-- [span_22](start_span)Implemented third-party API integrations to power dynamic platform features, including automated quizzes, content summarization, and chatbot functionality[span_22](end_span).
-- **[span_23](start_span)Technologies:** React.js, TypeScript, REST APIs[span_23](end_span).
-
-### 3. [span_24](start_span)[Tawjihi - Online Learning Platform](#) *(Add Live Demo Link Here)*[span_24](end_span)
-- [span_25](start_span)Engineered a role-based interface (Students, Teachers, Admins) using a custom library of 20+ reusable React components and Lottie animations[span_25](end_span).
-- [span_26](start_span)Developed interactive dashboards with CoreUI React for course management, integrating Cloudinary for optimized media delivery[span_26](end_span).
-- [span_27](start_span)Architected an e-commerce workflow (cart, wishlist) with secure checkout integration via the Stripe API[span_27](end_span).
-- [span_28](start_span)Consumed RESTful APIs to manage secure frontend authentication (JWT/OAuth) and real-time data synchronization[span_28](end_span).
-- **[span_29](start_span)Technologies:** React.js, JavaScript, Styled Components, REST APIs, Stripe[span_29](end_span).
-
-### 4. [span_30](start_span)[E-commerce - Online Shopping Platform](#) *(Add Live Demo Link Here)*[span_30](end_span)
-- [span_31](start_span)Built dynamic product pages with search and filtering functionality[span_31](end_span).
-- [span_32](start_span)Implemented shopping cart and order workflow[span_32](end_span).
-- [span_33](start_span)Designed responsive and optimized user interface[span_33](end_span).
-- **[span_34](start_span)Technologies:** React.js, JavaScript, Styled Components, REST APIs[span_34](end_span).
-
----
-
-## 📊 GitHub Stats
+# Hi there, I'm Ali Hassan! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHassan2712&show_icons=true&theme=radical&hide_border=true" alt="Ali's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHassan2712&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Web+Apps;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26n6wz557g0C3/giphy.gif" width="300" alt="Coding Animation">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliHassan2712&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-## 📫 Connect With Me
-
-[span_35](start_span)[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ali-abusafiah-832856340)[span_35](end_span)
-[span_36](start_span)[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AliHassan2712)[span_36](end_span)
-[span_37](start_span)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alihassanabusafiah@gmail.com)[span_37](end_span)
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AliHassan2712&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ali's Trophies" />
+  </a>
+</div>
 
 ---
-*Thanks for visiting my profile! Feel free to connect or check out my repositories.* 🚀
+
+## ⚡ Current Status & Focus
+
+| Status | What I'm Doing | Currently Learning |
+| :--- | :--- | :--- |
+| 🟢 **Available for Work** | Seeking Frontend roles (React/Next.js) | Advanced Next.js Patterns |
+| 🔭 **Working On** | Learning \& Building Personal Projects | Performance Optimization |
+| 💬 **Open To** | Collaborations & Coding Challenges | Mastering TypeScript |
+
+---
+
+## 👨‍💻 About Me in a Nutshell
+
+I am a **Frontend Developer** with a degree in **Computer Systems Engineering** from Al-Azhar University. My world revolves around creating dynamic, user-friendly, and performant web applications. I specialize in the modern frontend stack and love diving into complex problems to find elegant solutions.
+
+> *"Clean code. Scalable architecture. Great UI. That's the mission."*
+
+---
+
+## 🚀 The Tech Stack
+
+<details open>
+  <summary><b>🛠️ Core Technologies</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+</details>
+
+<details>
+  <summary><b>🧠 State & API Management</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white">
+</details>
+
+<details>
+  <summary><b>🎨 UI & Styling</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</details>
+
+<details>
+  <summary><b>⚙️ Tools & Concepts</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</details>
+
+---
+
+## 🌟 Featured Innovations
+
+Here's a glimpse of what I've been building:
+
+<div align="center">
+  
+  ### 🎬 [Movies App: Your Ultimate Cinema Hub](https://github.com/AliHassan2712/Your-Repo-Link)
+  *Rewriting the streaming experience. Fast, dynamic, and intuitive.*
+  Built with **Next.js (App Router)** & **TypeScript**, focusing on type safety and dynamic fetching. Features **React Query** for intelligent caching and optimized images via **next/image** for peak performance.
+  <br>
+  <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="250" alt="Movies Animation">
+
+  ---
+
+  ### 🧠 [Learnify: AI-Powered Education](https://github.com/AliHassan2712/Your-Repo-Link)
+  *Transforming dashboards into smart learning companions.*
+  I engineered interactive student dashboards using **React.js** \& **TypeScript**. Integrated **AI** features like quiz generation, content summarization, and a dynamic chatbot, focusing on modular architecture.
+  <br>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="250" alt="AI Animation">
+
+  ---
+
+  ### 🎓 [Tawjihi: Academic Management Reimagined](https://github.com/AliHassan2712/Tawjihi)
+  *Connecting students, teachers, and admins through clean interfaces.*
+  Developed a full e-learning platform. Crafted a custom library of **20+ reusable React components**, integrated **Stripe** for secure payments, and managed authentication using **JWT/OAuth**.
+  <br>
+  <img src="https://media.giphy.com/media/26u8xLwX3q6b9n4jC/giphy.gif" width="250" alt="Learn Animation">
+
+</div>
+
+---
+
+## 📊 My Coding Universe
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliHassan2712&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ali's GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHassan2712&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHassan2712&theme=radical&hide_border=true" alt="GitHub Streak">
+</div>
+
+---
+
+## 😄 Time for a quick laugh!
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/ali-abusafiah-832856340" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AliHassan2712" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:alihassanabusafiah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<p align="center">
+  <br>
+  <em>Thank you for exploring my code! If you like my projects, feel free to drop a star! ⭐</em>
+</p>
