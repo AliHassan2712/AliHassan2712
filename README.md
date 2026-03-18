@@ -1,17 +1,24 @@
-# Hi there, I'm Ali Hassan! 👋
+# Hi there, I'm Ali Hassan! <img src="https://media.tenor.com/m-WlB2hB-f0AAAAi/hello-wave.gif" width="35" align="center">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Web+Apps;UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Web+Apps;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding Animation">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliHassan2712&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AliHassan2712&label=Profile%20Views&color=00D8FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliHassan2712&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ali's Trophies" />
 </div>
 
 ---
@@ -36,60 +43,36 @@ I am a **Frontend Developer** with a degree in **Computer Systems Engineering** 
 
 ## 🚀 The Tech Stack
 
-<details open>
-  <summary><b>🛠️ Core Technologies</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-</details>
-
-<details>
-  <summary><b>🧠 State & API Management</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white">
-</details>
-
-<details>
-  <summary><b>🎨 UI & Styling</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</details>
-
-<details>
-  <summary><b>⚙️ Tools & Concepts</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</details>
+<div align="center">
+  <p><b>Languages, Frameworks & Tools</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,bootstrap,styledcomponents,nodejs,express,mongodb,git,github,vercel,postman&perline=8" alt="Tech Stack Icons" />
+  </a>
+</div>
 
 ---
 
 ## 🌟 Featured Innovations
 
-Here's a glimpse of what I've been building:
+<div align="center">
 
-### 🎬 [Movies App: Your Ultimate Cinema Hub](https://github.com/AliHassan2712/Your-Repo-Link)
-*Rewriting the streaming experience. Fast, dynamic, and intuitive.*
-Built with **Next.js (App Router)** & **TypeScript**, focusing on type safety and dynamic fetching. Features **React Query** for intelligent caching and optimized images via **next/image** for peak performance.
+  ### <img src="https://media.tenor.com/bCGAZfcGEu0AAAAi/movie-film.gif" width="30" align="center"> [Movies App: Your Ultimate Cinema Hub](https://github.com/AliHassan2712/Your-Repo-Link)
+  *Rewriting the streaming experience. Fast, dynamic, and intuitive.*<br>
+  Built with **Next.js (App Router)** & **TypeScript**, focusing on type safety and dynamic fetching. Features **React Query** for intelligent caching and optimized images via **next/image** for peak performance.
 
----
+  <br>
 
-### 🧠 [Learnify: AI-Powered Education](https://github.com/AliHassan2712/Your-Repo-Link)
-*Transforming dashboards into smart learning companions.*
-I engineered interactive student dashboards using **React.js** \& **TypeScript**. Integrated **AI** features like quiz generation, content summarization, and a dynamic chatbot, focusing on modular architecture.
+  ### <img src="https://media.tenor.com/1-ZJ6E1Q7S8AAAAi/ai-artificial-intelligence.gif" width="30" align="center"> [Learnify: AI-Powered Education](https://github.com/AliHassan2712/Your-Repo-Link)
+  *Transforming dashboards into smart learning companions.*<br>
+  I engineered interactive student dashboards using **React.js** \& **TypeScript**. Integrated **AI** features like quiz generation, content summarization, and a dynamic chatbot, focusing on modular architecture.
 
----
+  <br>
 
-### 🎓 [Tawjihi: Academic Management Reimagined](https://github.com/AliHassan2712/Tawjihi)
-*Connecting students, teachers, and admins through clean interfaces.*
-Developed a full e-learning platform. Crafted a custom library of **20+ reusable React components**, integrated **Stripe** for secure payments, and managed authentication using **JWT/OAuth**.
+  ### <img src="https://media.tenor.com/O6Xm8f1B9e0AAAAi/education-learning.gif" width="30" align="center"> [Tawjihi: Academic Management Reimagined](https://github.com/AliHassan2712/Tawjihi)
+  *Connecting students, teachers, and admins through clean interfaces.*<br>
+  Developed a full e-learning platform. Crafted a custom library of **20+ reusable React components**, integrated **Stripe** for secure payments, and managed authentication using **JWT/OAuth**.
+
+</div>
 
 ---
 
