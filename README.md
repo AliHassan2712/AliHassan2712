@@ -2,25 +2,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Web+Apps;UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Web+Apps;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6wz557g0C3/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Animation">
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AliHassan2712&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AliHassan2712&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ali's Trophies" />
-  </a>
 </div>
 
 ---
@@ -84,31 +75,21 @@ I am a **Frontend Developer** with a degree in **Computer Systems Engineering** 
 
 Here's a glimpse of what I've been building:
 
-<div align="center">
-  
-  ### 🎬 [Movies App: Your Ultimate Cinema Hub](https://github.com/AliHassan2712/Your-Repo-Link)
-  *Rewriting the streaming experience. Fast, dynamic, and intuitive.*
-  Built with **Next.js (App Router)** & **TypeScript**, focusing on type safety and dynamic fetching. Features **React Query** for intelligent caching and optimized images via **next/image** for peak performance.
-  <br>
-  <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="250" alt="Movies Animation">
+### 🎬 [Movies App: Your Ultimate Cinema Hub](https://github.com/AliHassan2712/Your-Repo-Link)
+*Rewriting the streaming experience. Fast, dynamic, and intuitive.*
+Built with **Next.js (App Router)** & **TypeScript**, focusing on type safety and dynamic fetching. Features **React Query** for intelligent caching and optimized images via **next/image** for peak performance.
 
-  ---
+---
 
-  ### 🧠 [Learnify: AI-Powered Education](https://github.com/AliHassan2712/Your-Repo-Link)
-  *Transforming dashboards into smart learning companions.*
-  I engineered interactive student dashboards using **React.js** \& **TypeScript**. Integrated **AI** features like quiz generation, content summarization, and a dynamic chatbot, focusing on modular architecture.
-  <br>
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="250" alt="AI Animation">
+### 🧠 [Learnify: AI-Powered Education](https://github.com/AliHassan2712/Your-Repo-Link)
+*Transforming dashboards into smart learning companions.*
+I engineered interactive student dashboards using **React.js** \& **TypeScript**. Integrated **AI** features like quiz generation, content summarization, and a dynamic chatbot, focusing on modular architecture.
 
-  ---
+---
 
-  ### 🎓 [Tawjihi: Academic Management Reimagined](https://github.com/AliHassan2712/Tawjihi)
-  *Connecting students, teachers, and admins through clean interfaces.*
-  Developed a full e-learning platform. Crafted a custom library of **20+ reusable React components**, integrated **Stripe** for secure payments, and managed authentication using **JWT/OAuth**.
-  <br>
-  <img src="https://media.giphy.com/media/26u8xLwX3q6b9n4jC/giphy.gif" width="250" alt="Learn Animation">
-
-</div>
+### 🎓 [Tawjihi: Academic Management Reimagined](https://github.com/AliHassan2712/Tawjihi)
+*Connecting students, teachers, and admins through clean interfaces.*
+Developed a full e-learning platform. Crafted a custom library of **20+ reusable React components**, integrated **Stripe** for secure payments, and managed authentication using **JWT/OAuth**.
 
 ---
 
