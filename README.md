@@ -114,7 +114,7 @@ I have hands-on experience building high-performance B2B SaaS platforms, real-ti
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ali-abusafiah-832856340" target="_blank">
+  <a href="https://linkedin.com/in/ali-abusafiah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
